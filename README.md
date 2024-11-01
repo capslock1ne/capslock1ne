@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there , i'm currently my journey becoming Full-Stack Developer👋
 
 <!--
 **capslock1ne/capslock1ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
